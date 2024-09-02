@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AstroFiji
-- 👀 I’m interested in Technology!
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a mobile app development.
+- 👋 Hello, I am a first-year Software Engineering student who pretty much loves anything to do with technology.
+
+- 🌱 Currently learning C++
+- 💞️ Looking to collaborate on a mobile app development.
 - 📫 How to reach me? Email me -> howard@astrofiji.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm married!!!!
 
 <!---

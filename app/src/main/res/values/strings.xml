@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rotuman Hymn Book</string>
+    <string name="menu_title">Menu</string>
+    <string name="open_hymns">Open Hymns</string>
+    <string name="about_app">About</string>
+    <string name="menu_description">Browse 320 placeholder hymns ready for lyrics.</string>
+    <string name="hymn_list_title">Hymns</string>
+    <string name="search_placeholder">Search hymns by title or number</string>
+    <string name="back">Back</string>
+    <string name="hymn_row_placeholder">Lyrics coming soon.</string>
+    <string name="hymn_title">Hymn %1$d: %2$s</string>
+</resources>
